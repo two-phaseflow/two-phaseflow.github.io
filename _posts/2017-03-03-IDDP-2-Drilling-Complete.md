@@ -20,7 +20,7 @@ However, in contrast to the IDDP-1 well, which was located far enough from the c
     high-temperature fluids at any pressure, because the fluid is single phase and changes in P or T do not induce phase separation. In
     two- or multi-component systems, critical behavior occurs along critical curves and is no longer uniquely defined in terms of P and
     T. “Supercritical”, as implying *P* > *P*<sub>c</sub> and *T* > *T*<sub>c</sub>, therefore becomes meaningless. This holds all the
-    more if one considers that in two- or higher component systems the vapor-liquid two-phase fi eld may open with increasing
+    more if one considers that in two- or higher component systems the vapor-liquid two-phase field may open with increasing
     temperature as, for example, in the H<sub>2</sub>O-NaCl system. In these systems, raising *T* > *T*<sub>c</sub> (at a given
     pressure) implies fluid phase separation instead of homogenization, contrary to what is intended by the term “supercritical.” 
 
