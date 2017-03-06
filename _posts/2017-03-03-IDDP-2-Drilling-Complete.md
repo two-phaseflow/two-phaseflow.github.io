@@ -12,6 +12,9 @@ The drilling of the second well of Iceland Deep Drilling Project ([IDDP](http://
             title="IDDP-2 Drilling site"
 	    caption="<b>Figure</b>: IDDP-2 drilling site at the Reykjanes geothermal plant. Photo credit [Intercontinental Scientific Drilling Program](http://www.icdp-online.org/projects/world/europe/iceland/details/)" }
 
+<p align="center">
+  <img="pictures/IDDP2Overview.jpg">
+</p>
 
 In addition to the scientific value of collecting rock samples at such great depths, the main rationale for drilling the IDDP well is that electricity generation from volcanic geothermal systems could be greatly increased by tapping into so-called "supercritical geothermal resources". The first IDDP well, IDDP-1, was drilled in 2009-2010 into the Krafla geothermal system in northeast Iceland. Drilling operations were ceased after the presence of quenched glass in the wellbore indicated that the well penetrated a magmatic intrusion around 2.1 km depth. Subsequent well testing indicated an a reservoir at 450 &deg;C and 18 MPa that could potentially generate 30 MWe electricity generation (roughly an order-of-magnitude greater than a conventional well drilled into a volcanic geothermal system). Thus, the IDDP-1 showed that depths of >3-4 km (where fluid pressures would be >22 MPa, corresponding to the critical pressure of pure water) were not necessary to obtain economically attractive supercritical geothermal resources in systems containing dilute waters. The observed data and overall message was further supported by [subsequent modeling of fluid flow around magmatic intrusions](http://www.nature.com/articles/ncomms8837) I performed during my PhD. 
 
