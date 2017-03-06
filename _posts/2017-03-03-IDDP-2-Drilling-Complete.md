@@ -6,7 +6,7 @@ date: 2017-03-03
 
 The drilling of the second well of Iceland Deep Drilling Project ([IDDP](http://iddp.is)) was finished on January 25th.  The IDDP-2 was the result of extending an existing well RN-15 (which was initially ~2 km depth) to a depth of 4,659 m. The well was drilled at the [Reykjanes geothermal power plant](http://www.power-technology.com/projects/reykjanes/), which is operated by [HS Orka](https://www.hsorka.is/en/), in collaboration with Landsvirkjun, Orkuveita Reykjavíkur and Iceland’s National Energy Authority, with active participation of Statoil and substantial grants from the EU H2020 funding program as well as other international science grants from ICDP and NSF. At a [triumphant informational meeting](http://www.thinkgeoenergy.com/supercritical-heat-high-pressure-iddp-successfully-concludes-drilling-campaign/) in Reykjavik on Februrary 1, results of the drilling operations were announced in Icelandic. The IDDP also released an helpful [informational sheet](http://iddp.is/wp-content/uploads/2017/01/IDDP-2-Completion-websites-IDDP-DEEPEGS.pdf) on the project website, which describes temperature/pressure measurements, injectivity tests and geological analysis of recovered core samples.
 
-{% include image.html
+!{% include image.html
             img="pictures/IDDP2Overview.jpg"
 	    style="width: 150px;"
             title="IDDP-2 Drilling site"
